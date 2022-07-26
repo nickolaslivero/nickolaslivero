@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nickolas Livero</h1>
 <h3 align="center">A brazilian university student learning programming languages.</h3>
 
-- 🔭 I’m currently working on **Callidus Academy**
+- 🔭 I’m currently working on **Callidus Academy at Universidade Estadual do Amazonas**
 
 - 🌱 I’m currently learning **Programming Languages(Javascript) and Data Science**
 
