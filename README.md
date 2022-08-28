@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Callidus Academy at Universidade Estadual do Amazonas**
 
-- 🌱 I’m currently learning **Programming Language (c and python)**
+- 🌱 I’m currently learning **Programming Languages (c and python)**
 
 - 📫 How to reach me **nickolaslivero@hotmail.com**
 
