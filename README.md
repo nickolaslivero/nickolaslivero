@@ -2,7 +2,7 @@
 <h3 align="center">AI & Automated Testing | Mobile Developer </h3>
 <h4 align="center">A Brazilian with expertise in programming (development & testing), hardware skills, and advanced English</h4>
 
-- 🔭 I’m currently working as an **Intern with AI and Automated Testing with Python at INDT in Motorola Project** and **Flutter Developer in other projects as a second job**. Also, I`m student at **Universidade Estadual do Amazonas (UEA) - Sistemas de Informação (7/8)**
+- 🔭 I’m currently working as an **Intern with AI and Automated Testing with Python at INDT in Motorola Project** and **Flutter Developer in other projects as a second job**. Also, I’m student at **Universidade Estadual do Amazonas (UEA) - Sistemas de Informação (7/8)**
 
 - 📫 You can reach me at **nickolaslivero@hotmail.com** and **https://www.linkedin.com/in/nickolaslivero/**
 
