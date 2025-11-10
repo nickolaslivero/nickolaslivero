@@ -1,36 +1,78 @@
-<h1 align="center">Hi there, I'm Nickolas Livero 👋</h1>
-<h3 align="center">AI & Automated Testing | Mobile Developer </h3>
-<h4 align="center">A Brazilian with expertise in programming (development & testing), hardware skills, and advanced English</h4>
+<h1 align="center">👋 Hi, I'm Nickolas Lívero</h1>
+<h3 align="center">Full Stack Engineer | AI & Flutter Developer | Web3 Enthusiast</h3>
 
-- 🔭 I’m currently working as an **Intern with AI and Automated Testing with Python at INDT in Motorola Project** and **Flutter Developer in other projects as a second job**. Also, I’m student at **Universidade Estadual do Amazonas (UEA) - Sistemas de Informação (7/8)**
-
-- 📫 You can reach me at **nickolaslivero@hotmail.com** and **https://www.linkedin.com/in/nickolaslivero/**
-
-<h3 align="left">Main Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a> 
+<p align="center">
+  <strong>Building intelligent systems that connect automation, AI, and blockchain.</strong><br>
+  <em>From Manaus, Brazil 🇧🇷 | Open for remote opportunities 🌍</em>
 </p>
 
-<h3 align="left">
+---
+
+### 💡 About Me
+- 💼 **Freelance Full Stack & AI Engineer**, delivering end-to-end MVPs for small businesses.  
+- 🧠 Focused on **AI automation**, **Web3 (Solidity, smart contracts)** and **cross-platform systems** with Flutter + Python.  
+- 🎓 B.Sc. in **Information Systems** — *Universidade do Estado do Amazonas (UEA)*  
+- 🧩 Passionate about creating efficient, elegant systems that solve real problems.  
+- ✉️ Reach me at **[nickolasjl.work@gmail.com](mailto:nickolasjl.work@gmail.com)**  
+- 💼 Connect on **[LinkedIn](https://linkedin.com/in/nickolaslivero)**  
+- 🧠 See more in my **[GitHub Repositories](https://github.com/nickolaslivero?tab=repositories)**
+
+---
+
+### ⚙️ Main Tech Stack
 <p align="left">
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://soliditylang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Secondary Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="css" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+---
+
+### 🧠 Secondary Knowledge
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 LLM-Based Assistant for Accessibility *(SBIE 2024 Research)*
+Voice-controlled system integrating LLMs to support visually impaired users.  
+[🔗 Repository](https://github.com/nickolaslivero/phidata)
+
+#### 🪙 Auction Blockchain Web3
+Decentralized auction DApp built with **Solidity + Truffle + React**.  
+[🔗 Repository](https://github.com/nickolaslivero/auction-blockchainWeb3)
+
+#### 🧰 Automotive Workshop System (MVP)
+Offline-first Flutter system for workshop management and service tracking.  
+*(Private repo – part of freelance portfolio, demo on request)*
+
+#### 📱 Flutter Legacy Migration Project
+Migrated an embedded Java system to modern **Flutter architecture**.  
+[🔗 Repository](https://github.com/nickolaslivero/Flutter-Project---Callidus)
+
+---
+
+### 🧩 Highlights
+- 💼 Acts as a **complete engineer**: from idea → architecture → code → deployment.  
+- 🤖 Experience with **AI, Flutter, Web3**, and **automated testing**.  
+- 🧭 Strong focus on **MVP delivery**, **scalability**, and **product vision**.  
+- 🌍 Fluent English and comfortable working with global remote teams.  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickolaslivero&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nickolaslivero&show_icons=true&theme=react&hide_title=true&count_private=true" alt="GitHub stats" />
 </p>
