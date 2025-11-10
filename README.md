@@ -68,11 +68,4 @@ Migrated an embedded Java system to modern **Flutter architecture**.
 - 💼 Acts as a **complete engineer**: from idea → architecture → code → deployment.  
 - 🤖 Experience with **AI, Flutter, Web3**, and **automated testing**.  
 - 🧭 Strong focus on **MVP delivery**, **scalability**, and **product vision**.  
-- 🌍 Fluent English and comfortable working with global remote teams.  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickolaslivero&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nickolaslivero&show_icons=true&theme=react&hide_title=true&count_private=true" alt="GitHub stats" />
-</p>
+- 🌍 Fluent English and comfortable working with global remote teams.
