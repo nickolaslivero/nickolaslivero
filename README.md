@@ -12,7 +12,8 @@
 - 💼 **Freelance Full Stack & AI Engineer**, delivering end-to-end MVPs for small businesses.  
 - 🧠 Focused on **AI automation**, **Web3 (Solidity, smart contracts)** and **cross-platform systems** with Flutter + Python.  
 - 🎓 B.Sc. in **Information Systems** — *Universidade do Estado do Amazonas (UEA)*  
-- 🧩 Passionate about creating efficient, elegant systems that solve real problems.  
+- 🧩 Passionate about creating efficient, elegant systems that solve real problems.
+- ✉️ My Portfolio at **[Github Pages](https://nickolaslivero.github.io/)**
 - ✉️ Reach me at **[nickolasjl.work@gmail.com](mailto:nickolasjl.work@gmail.com)**  
 - 💼 Connect on **[LinkedIn](https://linkedin.com/in/nickolaslivero)**  
 - 🧠 See more in my **[GitHub Repositories](https://github.com/nickolaslivero?tab=repositories)**
