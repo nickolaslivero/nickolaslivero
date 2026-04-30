@@ -1,72 +1,79 @@
-<h1 align="center">👋 Hi, I'm Nickolas Lívero</h1>
-<h3 align="center">Full Stack Engineer | AI & Flutter Developer | Web3 Enthusiast</h3>
+<h1 align="center">Nickolas J. S. Livero</h1>
+
+<h3 align="center">Software Engineer | Applied AI | Full Stack Systems | Flutter, Python, TypeScript, AWS</h3>
 
 <p align="center">
-  <strong>Building intelligent systems that connect automation, AI, and blockchain.</strong><br>
-  <em>From Manaus, Brazil 🇧🇷 | Open for remote opportunities 🌍</em>
+  I build production software that connects business workflows, APIs, cloud infrastructure, automation, and LLM-enabled systems.
+</p>
+
+<p align="center">
+  <a href="https://nickolaslivero.github.io/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/nickolaslivero/">LinkedIn</a> |
+  <a href="mailto:nickolasjl.work@gmail.com">Email</a>
 </p>
 
 ---
 
-### 💡 About Me
-- 💼 **Freelance Full Stack & AI Engineer**, delivering end-to-end MVPs for small businesses.  
-- 🧠 Focused on **AI automation**, **Web3 (Solidity, smart contracts)** and **cross-platform systems** with Flutter + Python.  
-- 🎓 B.Sc. in **Information Systems** — *Universidade do Estado do Amazonas (UEA)*  
-- 🧩 Passionate about creating efficient, elegant systems that solve real problems.
-- ✉️ My Portfolio at **[Github Pages](https://nickolaslivero.github.io/)**
-- ✉️ Reach me at **[nickolasjl.work@gmail.com](mailto:nickolasjl.work@gmail.com)**  
-- 💼 Connect on **[LinkedIn](https://linkedin.com/in/nickolaslivero)**  
-- 🧠 See more in my **[GitHub Repositories](https://github.com/nickolaslivero?tab=repositories)**
+## About
 
----
+- Software Engineer with 4+ years of experience across web, mobile, backend, cloud, QA automation, and applied AI.
+- Current focus: full-cycle product delivery with Flutter, Python/FastAPI, TypeScript, React/Next.js, REST APIs, PostgreSQL, Docker, Linux, and AWS.
+- Built and deployed production systems for B2B operations, including institutional platforms, administrative systems, API integrations, and cloud infrastructure.
+- Applied AI experience with LLM integration, RAG, embeddings, semantic search, prompt engineering, data processing, OpenAI/Gemini workflows, and automation.
+- Open to international remote Software Engineer, Full Stack Engineer, Backend Engineer, and Applied AI Engineer roles.
 
-### ⚙️ Main Tech Stack
-<p align="left">
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://soliditylang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
+## Production Signals
 
----
+- Delivered AWS-backed production systems using ECS, ECR, EC2, S3, Route 53, CloudFront, Application Load Balancer, Docker, and Linux workflows.
+- Automated 400+ QA test cases and internal processes, reducing manual testing effort by 60%.
+- Reduced manual client workflows by up to 70% through API integrations, automation, and production business systems.
+- Published SBIE 2024 research on a voice and LLM-based virtual assistant for visually impaired students.
 
-### 🧠 Secondary Knowledge
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
+## Core Stack
 
----
+| Area | Technologies |
+| --- | --- |
+| Applied AI | LLM integration, RAG, embeddings, semantic search, prompt engineering, OpenAI, Gemini, LangChain |
+| Backend | Python, FastAPI, TypeScript, Node.js, NestJS, Express.js, REST APIs, Prisma ORM |
+| Frontend/Mobile | Flutter, Dart, React, Next.js, JavaScript, HTML, CSS |
+| Cloud/DevOps | AWS ECS, ECR, EC2, S3, Route 53, CloudFront, Application Load Balancer, Docker, Linux, CI/CD |
+| Data | PostgreSQL, Firebase, Supabase, data processing, vector databases, pgvector, Qdrant, Weaviate, FAISS |
+| Quality | Python QA automation, regression pipelines, validation workflows, Jest, Playwright |
 
-### 🚀 Featured Projects
+## Featured Work
 
-#### 🧠 LLM-Based Assistant for Accessibility *(SBIE 2024 Research)*
-Voice-controlled system integrating LLMs to support visually impaired users.  
-[🔗 Repository](https://github.com/nickolaslivero/phidata)
+### PEDLOG Payroll and Administrative System
 
-#### 🪙 Auction Blockchain Web3
-Decentralized auction DApp built with **Solidity + Truffle + React**.  
-[🔗 Repository](https://github.com/nickolaslivero/auction-blockchainWeb3)
+Production administrative system for a transportation company. I owned full-stack development, backend APIs, database infrastructure, AWS deployment, DNS, CDN, and load balancing.
 
-#### 🧰 Automotive Workshop System (MVP)
-Offline-first Flutter system for workshop management and service tracking.  
-*(Private repo – part of freelance portfolio, demo on request)*
+- Stack: Flutter Web, backend APIs, database infrastructure, Docker, AWS ECS/ECR/EC2, CloudFront, Application Load Balancer, Route 53
+- Live: https://administracaopedlog.ipenaconsultoria.com.br/
+- Source code: confidential due to business policy
 
-#### 📱 Flutter Legacy Migration Project
-Migrated an embedded Java system to modern **Flutter architecture**.  
-[🔗 Repository](https://github.com/nickolaslivero/Flutter-Project---Callidus)
+### IPENA Consultoria Website
 
----
+B2B website for a software house focused on ERP consulting, TOTVS Protheus contexts, API integrations, and custom software.
 
-### 🧩 Highlights
-- 💼 Acts as a **complete engineer**: from idea → architecture → code → deployment.  
-- 🤖 Experience with **AI, Flutter, Web3**, and **automated testing**.  
-- 🧭 Strong focus on **MVP delivery**, **scalability**, and **product vision**.  
-- 🌍 Fluent English and comfortable working with global remote teams.
+- Stack: Next.js, SEO, AWS S3, Route 53, B2B positioning
+- Live: https://ipenaconsultoria.com.br/
+- Source code: confidential/business-owned
+
+### Voice and LLM-Based Accessibility Assistant
+
+Research project and SBIE 2024 publication focused on supporting visually impaired students with voice interaction and LLM-based workflows.
+
+- Areas: LLMs, accessibility, voice UX, education, applied AI
+- Publication: https://sol.sbc.org.br/index.php/sbie/article/view/31461
+
+### Flutter Legacy Migration - Callidus
+
+Public Flutter/Dart project migrating legacy Android workflows into a cross-platform implementation.
+
+- Stack: Flutter, Dart, Android, cross-platform migration
+- Repository: https://github.com/nickolaslivero/Flutter-Project---Callidus
+
+## Contact
+
+- Portfolio: https://nickolaslivero.github.io/
+- LinkedIn: https://www.linkedin.com/in/nickolaslivero/
+- Email: nickolasjl.work@gmail.com
