@@ -1,87 +1,34 @@
-<h1 align="center">Nickolas J. S. Livero</h1>
+# Nickolas J. S. Livero
 
-<h3 align="center">Software Engineer | Full Stack | Android QA | Cloud/DevOps | Applied AI</h3>
+**Software Engineer | Full Stack, Backend, Cloud, Industrial Integrations**
 
-<p align="center">
-  I build and support production software across web, mobile, backend APIs, cloud infrastructure, automation, and LLM-enabled workflows.
-</p>
+I build and maintain industrial and business software, combining full-stack development with Android QA, Linux/AWS operations, and production support. Based in Manaus, Brazil.
 
-<p align="center">
-  <a href="https://nickolaslivero.github.io/">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/nickolaslivero/">LinkedIn</a> |
-  <a href="mailto:nickolasjl.work@gmail.com">Email</a>
-</p>
+I founded **NLivero Software e Consultoria Ltda. in August 2026**, an independent software and technical consulting practice alongside my project work through **IPena Consultoria**.
 
----
+## Selected Work
 
-## Focus
+For **Technos, through IPena Consultoria**:
 
-- Full-stack product delivery with Flutter, Python/FastAPI, TypeScript, React/Next.js, REST APIs, PostgreSQL, Docker, Linux, and AWS.
-- Android/mobile validation, ADB, UI Automator, QA automation, device troubleshooting, and CI/CD-oriented validation workflows.
-- Cloud and self-hosted infrastructure using AWS ECS/ECR/EC2/S3, Route 53, CloudFront, Application Load Balancer, Docker, Ubuntu Server, Nginx, DNS, VPN, and operational support.
-- Applied AI and automation with LLM workflows, OpenAI/Gemini API concepts, LangChain/LangGraph exposure, RAG concepts, prompt engineering, data processing, and documentation workflows.
+- Developed a gatehouse and maintenance-request system integrated with TOTVS Protheus.
+- Developed and maintain a production Android APK distribution platform with targeted releases, device tracking, and Flutter updater integration.
+- Delivered device-count corrections and optional Web/API HTTPS, with integrity checks and Android installer handoff.
+- Maintain and modernize an inherited Flutter Android factory application, preserving ERP contracts, barcode workflows, and usability on collectors and landscape tablets.
+- Developed a Flutter Web logistics dashboard with a server-side Dart proxy, bounded retries, and retention of the last complete dataset during ERP failures.
+- Implemented Azure DevOps delivery workflows and maintainer documentation, keeping web-service promotion and APK distribution separate.
 
-## Production Signals
+My work through IPena also includes taking over and expanding an inherited production non-fiscal payroll and HR administration platform, maintaining its web/API/database workflows, and simplifying its AWS infrastructure.
 
-- Delivered production B2B systems covering frontend, backend APIs, relational databases, AWS infrastructure, DNS, CDN, load balancing, Docker, Linux, and support.
-- Built a low-cost self-hosted homologation environment with Ubuntu Server, Docker, Tailscale VPN, AWS EC2 routing, Route 53 DNS, and Nginx reverse proxy.
-- Automated 400+ mobile QA test cases and internal processes, reducing manual validation effort by around 60%.
-- Reduced manual client workflows by up to 70% through API integrations, automation, and production business systems.
-- Published SBIE 2024 research on a voice and LLM-based virtual assistant for visually impaired students.
+Earlier experience includes Python automation for Android QA at INDT and embedded-systems R&D at UEA.
 
-## Core Stack
+Client source code and operational data remain confidential.
 
-| Area | Technologies |
-| --- | --- |
-| Backend | Python, FastAPI, Flask, TypeScript, Node.js, Express.js, NestJS exposure, REST APIs, Swagger/OpenAPI |
-| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS |
-| Mobile | Flutter, Dart, Android, Java Android, ADB, Android Studio, UI Automator |
-| Cloud/DevOps | AWS ECS/ECR/EC2/S3, Route 53, CloudFront, ALB, Docker, Linux, Ubuntu Server, Nginx, Tailscale VPN, CI/CD |
-| Quality | Python QA automation, pytest, Cypress, Playwright, Jest exposure, regression workflows, Gerrit, Jenkins, Azure DevOps |
-| Applied AI | LLM integration, prompt engineering, RAG concepts, semantic search, OpenAI/Gemini workflows, LangChain/LangGraph exposure |
-| Data | PostgreSQL, MySQL, SQL, SQLAlchemy exposure, Pandas/NumPy academic and project exposure |
+## Selected Skills
 
-## Featured Work
+- **Web and APIs:** TypeScript, React, Next.js, Node.js, NestJS, Express, ASP.NET Core, REST APIs, TOTVS Protheus integrations.
+- **Mobile and quality:** Flutter, Dart, Python, Android, ADB, UI Automator, pytest, Playwright, regression testing.
+- **Data and delivery:** PostgreSQL, Linux, Docker/Compose, AWS, Azure DevOps, CI/CD, Git.
 
-### PEDLOG Payroll and Administrative System
+## Links
 
-Production administrative system for a transportation company. I owned full-stack development, backend APIs, database setup, AWS deployment, DNS, CDN, load balancing, Docker/Linux operations, and support.
-
-- Stack: Flutter Web, backend APIs, PostgreSQL, Docker, AWS ECS/ECR/EC2, CloudFront, Application Load Balancer, Route 53
-- Live: https://administracaopedlog.ipenaconsultoria.com.br/
-- Source code: confidential due to business/client policy
-
-### Self-Hosted Homologation Infrastructure
-
-Low-cost homologation environment created to validate releases without duplicating production AWS costs or exposing a home network directly.
-
-- Stack: Ubuntu Server, Docker, Tailscale VPN, AWS EC2 routing, Route 53 DNS, Nginx reverse proxy, repurposed hardware
-- Context: production support, validation, networking, deployment, and operational troubleshooting
-
-### IPENA Consultoria Website
-
-B2B website for a software house focused on ERP consulting, TOTVS Protheus contexts, API integrations, custom software, and technical credibility.
-
-- Stack: Next.js, SEO, AWS S3, Route 53, B2B positioning
-- Live: https://ipenaconsultoria.com.br/
-- Source code: confidential/business-owned
-
-### Voice and LLM-Based Accessibility Assistant
-
-Research project and SBIE 2024 publication focused on supporting visually impaired students with voice interaction and LLM-based workflows.
-
-- Areas: LLMs, accessibility, voice UX, education, applied AI
-- Publication: https://sol.sbc.org.br/index.php/sbie/article/view/31461
-
-### Flutter Legacy Migration - Callidus
-
-Public Flutter/Dart project migrating legacy Android workflows into a cross-platform implementation.
-
-- Stack: Flutter, Dart, Android, cross-platform migration
-- Repository: https://github.com/nickolaslivero/Flutter-Project---Callidus
-
-## Contact
-
-- Portfolio: https://nickolaslivero.github.io/
-- LinkedIn: https://www.linkedin.com/in/nickolaslivero/
-- Email: nickolasjl.work@gmail.com
+[Portfolio](https://nickolaslivero.github.io/) | [LinkedIn](https://www.linkedin.com/in/nickolaslivero/) | [Email](mailto:nickolasjl.work@gmail.com)
